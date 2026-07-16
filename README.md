@@ -4,6 +4,13 @@ MCP agent for the [syzkaller](https://github.com/google/syzkaller).
 
 Project is in WIP.
 
+## UPDATE Jul 2026
+
+I haven't finished (or even started) this project,
+and there's already integrated in linux kernel one -->
+https://github.com/sashiko-dev/sashiko. Develop there.
+I'll archive this repo.
+
 ## Tools
 
 * ### generate-syzlang
